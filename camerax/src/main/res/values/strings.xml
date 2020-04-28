@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CameraX</string>
+    <string name="permission_request">APP需要权限去执行视频录制</string>
+    <string name="record">录制</string>
+    <string name="stop">停止</string>
+    <string name="description_info">信息</string>
+    <string name="camera_error">当前设备不支持Camera2的API</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+            This sample demonstrates how to record video using Camera2 API.
+
+
+        ]]>
+    </string>
+</resources>
